@@ -5,8 +5,8 @@
 #include <math.h>
 #include <stdlib.h>
 #include <fstream>
-#include "Receiver.h"
-#include "VC_Scanner.h"
+#include "Receiver/Receiver.h"
+#include "Scanner/VC_Scanner.h"
 
 using namespace cv;
 using namespace std;
